@@ -44,8 +44,16 @@ This is a small synthetic dataset, ideal for learning the basics of linear regre
 ---
 
 ### 📈 Sample Output
+**Raw Data Plot (House Prices vs. Size):**
+Shows the actual distribution of the dataset before model fitting.
 
-_(Replace with your actual output if available)_
+![Raw Scatter Plot](https://github.com/RashikaJ/predict-home-prices/blob/cc1ff56fb76de19710c399088cdb16664b07a39a/Figure_1.png?raw)
+
+**Linear Regression Fit:**
+Below is the linear regression output showing the relationship between house size (sq.ft) and price (millions $):
+The red line shows the predicted house prices based on the linear model.
+
+![Property Price Prediction](https://github.com/RashikaJ/predict-home-prices/blob/cc1ff56fb76de19710c399088cdb16664b07a39a/Figure_2.png?raw)
 
 ---
 
