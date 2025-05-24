@@ -26,7 +26,7 @@ predictions = model.predict(x_test)
 
 plt.scatter(x_test, y_test, marker='o', color='blue', label='Actual Prices')
 plt.plot(x_test, predictions, color='red', linewidth=2, label='Predicted Prices')
-plt.title('Dumbo Property Price Prediction with Linear Regression')
+plt.title('Property Price Prediction with Linear Regression')
 plt.xlabel('House Size (sq.ft)')
 plt.ylabel('House Price (millions $)')
 plt.legend()
